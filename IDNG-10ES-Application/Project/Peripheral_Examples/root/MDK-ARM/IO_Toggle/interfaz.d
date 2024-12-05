@@ -1,0 +1,13 @@
+.\io_toggle\interfaz.o: ..\interfaz\interfaz.c
+.\io_toggle\interfaz.o: ..\interfaces.h
+.\io_toggle\interfaz.o: ..\dataTypes.h
+.\io_toggle\interfaz.o: ..\interfaces.h
+.\io_toggle\interfaz.o: ..\interfaces.h
+.\io_toggle\interfaz.o: ..\interfaces.h
+.\io_toggle\interfaz.o: ..\interfaces.h
+.\io_toggle\interfaz.o: ..\interfaces.h
+.\io_toggle\interfaz.o: ..\interfaces.h
+.\io_toggle\interfaz.o: ..\interfaces.h
+.\io_toggle\interfaz.o: ..\interfaces.h
+.\io_toggle\interfaz.o: ..\macros.h
+.\io_toggle\interfaz.o: ..\interfaz\interfaz.h
